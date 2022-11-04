@@ -1,5 +1,9 @@
 # THE CURSE OF THE HAUNTED MANSION
 
+Read the book online here: haunted-mansion.w3spaces.com
+
+Listen to the mixtape here: open.spotify.com
+
    > ## WILL YOU UNLOCK THE MYSTERY OF CHIMNEY ROCK?
    > On your vacation in Connecticut, you notice a huge empty stone house at the top of a hill. Some of the windows are boarded up. Some are covered with vines. The old house, known as "Chimney Rock," is so dark and gloomy that most people won't go near it.
    >
