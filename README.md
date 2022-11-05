@@ -1,3 +1,20 @@
+# The Curse of the Haunted Mansion
+
+*The Curse of the Haunted Mansion* is an interactive, web-based version of the book of the same name, written by [Edward Packard](www.test.com) and first published in 1980 as one of the early titles in the highly-popular *Choose Your Own Adventure" series. 
+
+This project is my submission for the W3Schools' Halloween Event which was held during October 2022.
+
+If you would like to read the book, then it is currently hosted at: https://haunted-mansion.w3spaces.com
+
+In addition, there is also a specially-created playlist on Spotify which you might want to listen to while reading the book: https://open.spotify.com/playlist/41hpTehT3HdPa1LkFE4LTi
+
+
+
+
+
+
+
+
 # THE CURSE OF THE HAUNTED MANSION
 
 Read the book online here: haunted-mansion.w3spaces.com
