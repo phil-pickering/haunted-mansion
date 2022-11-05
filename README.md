@@ -1,16 +1,19 @@
 # The Curse of the Haunted Mansion
 
-*The Curse of the Haunted Mansion* is an interactive, web-based version of the book of the same name, written by [Edward Packard](www.test.com) and first published in 1980 as one of the early titles in the highly-popular *Choose Your Own Adventure" series. 
+**The Curse of the Haunted Mansion** is an interactive, web-based version of the gamebook of the same name, written by [Edward Packard](https://www.edwardpackard.com/) and first published in 1980 as one of the early titles in the highly-popular [Choose Your Own Adventure](https://en.wikipedia.org/wiki/Choose_Your_Own_Adventure) series. 
 
-This project is my submission for the W3Schools' Halloween Event which was held during October 2022.
+This project is my submission for the [W3Schools](https://www.w3schools.com/)' Halloween Event which was held during October 2022.
 
-If you would like to read the book, then it is currently hosted at: https://haunted-mansion.w3spaces.com
+If you would like to read the gamebook, then it is currently hosted at: https://haunted-mansion.w3spaces.com
 
-In addition, there is also a specially-created playlist on Spotify which you might want to listen to while reading the book: https://open.spotify.com/playlist/41hpTehT3HdPa1LkFE4LTi
+In addition, there is also a specially-created playlist on Spotify which you might want to listen to while reading the gamebook: https://open.spotify.com/playlist/41hpTehT3HdPa1LkFE4LTi
 
+If you would like to learn more about gamebooks, or the wider literary genre of hypertext fiction, then please explore these links:
 
-
-
+- [Demian's Gamebook Web Page](https://gamebooks.org/)
+- [r/gamebooks on Reddit](https://www.reddit.com/r/gamebooks/)
+- [Hypertext fiction on Wikipedia](https://en.wikipedia.org/wiki/Hypertext_fiction)
+- [Interactive fiction on Wikipedia](https://en.wikipedia.org/wiki/Interactive_fiction)
 
 
 
