@@ -1,5 +1,7 @@
 # The Curse of the Haunted Mansion
 
+## About this Project
+
 **The Curse of the Haunted Mansion** is an interactive, web-based version of the gamebook of the same name, written by [Edward Packard](https://www.edwardpackard.com/) and first published in 1980 as one of the early titles in the highly-popular [Choose Your Own Adventure](https://en.wikipedia.org/wiki/Choose_Your_Own_Adventure) series. 
 
 This project is my submission for the [W3Schools](https://www.w3schools.com/)' Halloween Event which was held during October 2022.
@@ -8,15 +10,26 @@ If you would like to read the gamebook, then it is currently hosted at: https://
 
 In addition, there is also a specially-created playlist on Spotify which you might want to listen to while reading the gamebook: https://open.spotify.com/playlist/41hpTehT3HdPa1LkFE4LTi
 
-If you would like to learn more about gamebooks, or the wider literary genre of hypertext fiction, then please explore these links:
+If you would like to learn more about gamebooks, interactive fiction or the wider literary genre of hypertext fiction, then please explore these links:
 
 - [Demian's Gamebook Web Page](https://gamebooks.org/)
 - [r/gamebooks on Reddit](https://www.reddit.com/r/gamebooks/)
-- [Hypertext fiction on Wikipedia](https://en.wikipedia.org/wiki/Hypertext_fiction)
 - [Interactive fiction on Wikipedia](https://en.wikipedia.org/wiki/Interactive_fiction)
+- [Hypertext fiction on Wikipedia](https://en.wikipedia.org/wiki/Hypertext_fiction)
 
+## Colophon
 
+The entire text of the original gamebook was typed by hand into Microsoft Word using a scanned copy of the gamebook held by the [Open Library](https://openlibrary.org/works/OL30112W/Choose_Your_Own_Adventure_-_The_Mystery_of_Chimney_Rock) for reference.
 
+The content of the Word document was subsequently marked up with HTML, and then styled with CSS using Notepad.
+
+The project uses [ITC Benguit](https://fonts.adobe.com/fonts/itc-benguiat), the same typeface used in the original gamebook, and is available as a web font via Adobe Fonts (https://fonts.adobe.com/).
+
+The color theme was inspired by the television series *Stranger Things* and built with the help of [Adobe Color](https://color.adobe.com).
+
+The background paper texture was designed by Merry and is available from [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/seamless-paper-texture/).
+
+All the HTML and CSS has been validated by the [W3C Markup Validation Service](https://validator.w3.org/) and [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/), respectively. 
 
 # THE CURSE OF THE HAUNTED MANSION
 
