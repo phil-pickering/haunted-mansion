@@ -1,6 +1,4 @@
 # The Curse of the Haunted Mansion
-![capture_20221106004027683](https://user-images.githubusercontent.com/89230459/200148761-0012e920-aa3a-4ba9-8d57-4344940a5f74.jpg)
-![capture_20221106004440899](https://user-images.githubusercontent.com/89230459/200148846-e7ec4e3d-c96b-43f3-996f-38d072246637.jpg)
 
 > **WILL YOU UNLOCK THE MYSTERY OF CHIMNEY ROCK?**
 > 
@@ -44,3 +42,8 @@ The color theme was inspired by the Netflix series [Stranger Things](https://www
 The background paper texture was designed by Merry and is available from [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/seamless-paper-texture/).
 
 All the HTML and CSS has been validated by the [W3C Markup Validation Service](https://validator.w3.org/) and [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/), respectively.
+
+## Screenshots
+
+![capture_20221106004027683](https://user-images.githubusercontent.com/89230459/200148761-0012e920-aa3a-4ba9-8d57-4344940a5f74.jpg)
+![capture_20221106004440899](https://user-images.githubusercontent.com/89230459/200148846-e7ec4e3d-c96b-43f3-996f-38d072246637.jpg)
