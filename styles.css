@@ -1,0 +1,101 @@
+body {
+  max-width: 600px;
+  margin: auto;
+  padding: 24px;
+  background: #F1ECDF url(bg.png);
+}
+
+footer {
+  margin-top: 48px;
+  border-top: 1px solid #400003;
+}
+
+h1 {
+  font: 700 2em itc-benguiat, serif;
+  text-align: center;
+  color: #A60505;
+}
+
+p {
+  font: 400 1em itc-benguiat, serif;
+  text-align: justify;
+  color: #400003;
+}
+
+main p {
+  margin: 0;
+  text-indent: 1.5em;
+}
+
+footer p {
+  text-align: right;
+}
+
+a {
+  font-style: italic;
+  text-decoration: none;
+  color: #03658C;
+}
+
+pre {
+  font: 400 1.25em/0.25 itc-benguiat, serif;
+  color: #400003;
+}
+
+.warning-heading {
+  border-bottom: 1px solid #400003;
+  font: 700 2em itc-benguiat, serif;
+  text-align: center;
+  text-transform: uppercase;
+  color: #400003;
+}
+
+.warning-paragraph {
+  margin: 0.5em 0;
+  text-indent: 0;
+}
+
+.end {
+  margin: 24px;
+  font-weight: 700;
+  text-align: center;
+  text-indent: 0;
+  color: #A60505;
+}
+
+.letter-salutation {
+  margin: 24px 0 12px 0;
+  font-size: 0.75em;
+}
+
+.letter-content {
+  margin-left: 1.5em;
+  font-size: 0.75em;
+  text-indent: 0;
+}
+
+@media only screen and (min-width: 600px) {
+
+  h1 {
+    font-size: 2em;
+  }
+
+  p {
+    font-size: 1.25em;
+    line-height: 1.3em;
+  }
+
+  .letter-salutation {
+    font-size: 1em;
+  }
+
+  .letter-content {
+    font-size: 1em;
+  }
+
+  .thunk {
+    max-width: 320px;
+    margin: auto;
+  }
+
+}
