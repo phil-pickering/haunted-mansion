@@ -20,7 +20,7 @@
 
 This project is my submission for the [W3Schools](https://www.w3schools.com/)' Halloween Event which was held during October 2022.
 
-If you would like to read the gamebook, then it is currently hosted at: https://haunted-mansion.w3spaces.com
+If you would like to read this version of the gamebook, then it is currently hosted at: https://haunted-mansion.w3spaces.com
 
 In addition, there is also a specially-created playlist on Spotify which you might want to listen to while reading the gamebook: https://open.spotify.com/playlist/41hpTehT3HdPa1LkFE4LTi
 
